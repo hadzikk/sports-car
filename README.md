@@ -1,7 +1,6 @@
 # Sports Car Landing Pages
 
-![image](![image](https://github.com/user-attachments/assets/8d06268d-af23-4095-b9e3-af93ed1e8956)
-)
+![image](https://github.com/user-attachments/assets/f928fbce-36dc-489c-b84f-3c1c8c4a190c)
 
 Welcome to the Sports Car Landing Pages! This project is a showcase of a modern, visually engaging website design, featuring parallax scrolling effects. The site was built as part of a portfolio to demonstrate web development and design skills.
 
