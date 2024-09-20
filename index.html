@@ -1,0 +1,87 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Car - Landing Pages</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Jura:wght@300..700&family=Prata&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+
+        .font-jura {
+            font-family: "Jura", sans-serif;
+        }
+
+        .font-prata {
+            font-family: "Prata", serif;
+        }
+
+        .font-montserrat {
+            font-family: "Montserrat", sans-serif;
+        }
+
+        .font-playwrite {
+            font-family: "Playwrite CU", cursive;
+        }
+    </style>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <nav class="w-full py-3 px-10 fixed z-10 flex justify-between items-center">
+        <p class="text-2xl text-white font-jura font-bold">sportscar</p>
+
+        <ul class="py-3">
+            <li class="inline-block"><a class="text-white px-5 capitalize" href="">home</a></li>
+            <li class="inline-block"><a class="text-white px-5 capitalize" href="">about</a></li>
+            <li class="inline-block"><a class="text-white px-5 capitalize" href="">features</a></li>
+            <li class="inline-block"><a class="text-white px-5 capitalize" href="">galery</a></li>
+            <li class="inline-block"><a class="text-white px-5 capitalize" href="">contact</a></li>
+        </ul>
+        
+        <div></div>
+    </nav>
+
+    <section class="w-full h-fit">
+        <div id="home" class="w-full h-screen relative">
+            <video class="w-full h-full object-cover -z-10 absolute" src="videos/4569076-hd_1920_1080_30fps.mp4" autoplay muted loop></video>
+
+            <div class="w-full h-screen">
+                <div class="w-full h-full flex items-center px-20">
+                    <p class="text-6xl text-white font-bold"><span class="">Ford</span> Mustang Series</p>
+                </div>
+
+                <div class="w-full py-3 px-5 flex justify-center absolute bottom-0 backdrop-blur-xl">
+                    <div class="w-fit py-3 px-5">
+                        <p class="text-2xl text-white text-center font-montserrat"> 350 lb-ft</p>                        </p>
+                        <p class="text-white text-center font-montserrat">torque</p>
+                    </div>
+
+                    <div class="w-fit py-3 px-5">
+                        <p class="text-2xl text-white text-center font-montserrat">5.1 s</p>
+                        <p class="text-white text-center font-montserrat">0-60 mph</p>
+                    </div>
+
+                    <div class="w-fit py-3 px-5">
+                        <p class="text-2xl text-white text-center font-montserrat">166 mph</p>
+                        <p class="text-white text-center font-montserrat">top speed</p>
+                    </div>
+
+                    <div class="w-fit py-3 px-5">
+                        <p class="text-2xl text-white text-center font-montserrat">443 hp</p>
+                        <p class="text-white text-center font-montserrat">peak power</p>
+                    </div>
+
+                    <div class="w-fit py-3 px-5 flex justify-center items-center">
+                        <a class="border border-white rounded-full py-1 px-5 text-white capitalize" href="">order now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="w-full h-screen bg-black">
+            </div>
+        </div>
+    </section>
+
+    <script src="script/script.js"></script>
+</body>
+</html>
