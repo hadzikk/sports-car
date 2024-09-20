@@ -20,8 +20,8 @@ This landing page was created to represent a fictional Sports Car Selling, focus
 - **HTML5:** Structured the content of the page.
 - **CSS3:** Designed and styled the page, including the parallax effect.
 - **JavaScript:** Added interactivity and enhanced user experience.
-- **GitHub Pages:** Used to host the website live at [Sports Car Landing Pages](https://hadzikk.github.io/pastry/).
+- **GitHub Pages:** Used to host the website live at [Sports Car Landing Pages](https://hadzikk.github.io/sports-car/).
 
 ## How to View
 
-To view the website, simply follow this link: [Sports Car Landing Pages](https://hadzikk.github.io/pastry/).
+To view the website, simply follow this link: [Sports Car Landing Pages](https://hadzikk.github.io/sports-car/).
